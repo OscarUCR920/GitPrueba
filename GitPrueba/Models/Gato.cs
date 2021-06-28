@@ -10,4 +10,9 @@ namespace GitPrueba.Models
 			String nombre = 'Ragnar V';
             double peso = 2.0;
     }
+
+
+		public String sayGG(){
+			return "sayGG";
+		}
 }
