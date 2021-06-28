@@ -7,7 +7,7 @@ namespace GitPrueba.Models
 {
     public class Gato
     {
-			String nombre = 'Ragnar V Noguera';
+			String nombre = 'Ragnar V Noguera Fernandez';
             double peso = 2.0;
     }
 
