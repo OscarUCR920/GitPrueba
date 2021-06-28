@@ -9,6 +9,7 @@ namespace GitPrueba.Models
     {
 			String nombre = 'Ragnar V Noguera Fernandez';
             double peso = 2.0;
+						int fecilidad = 100;
     }
 
 
