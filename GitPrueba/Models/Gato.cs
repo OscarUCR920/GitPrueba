@@ -9,4 +9,9 @@ namespace GitPrueba.Models
     {
 			String nombre = 'Ragnar V';
     }
+
+
+		public String sayGG(){
+			return "sayGG";
+		}
 }
